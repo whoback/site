@@ -1,0 +1,11 @@
+# Site settings
+title: Will Hoback
+email: will.hoback@gmail.com
+description: > # Personal site of Will Hoback. Technologist, Strategist, Startup Lover, Foodie, Musician
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.willhoback.com" # the base hostname & protocol for your site
+twitter_username: willhoback
+github_username:  whoback
+
+# Build settings
+markdown: kramdown
